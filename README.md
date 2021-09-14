@@ -1,4 +1,4 @@
-# apache-kafka & Spring Boot
+# Apache-Kafka & Spring Boot
 Fundamental Concepts of Apache  Kafka Streaming Middlewear
 
 Few samples of using Apache Kafka (Windows version) and API for Streaming Messaging
